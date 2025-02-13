@@ -5,7 +5,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/rahulxqmoz/FastAPI_Availability_API-.git](https://github.com/rahulxqmoz/FastAPI_Availability_API.git)
+git clone https://github.com/rahulxqmoz/FastAPI_Availability_API.git
 cd fastapi-availability-api
 ```
 
